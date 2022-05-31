@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.container {
+  display: flex;
+  justify-content: space-between;
+}
+.score {
+  width: 40%;
+  background-color: green;
+  height: 600px;
+}
