@@ -10,4 +10,11 @@
   width: 40%;
   background-color: green;
   height: 600px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.score h1 {
+  color: white;
+  font-size: 6em;
 }
